@@ -9,7 +9,7 @@ My background is in IT at an insurance and financial products platform, where AI
 ## 🎓 Degree Progress
 
 **Program:** Master of Science in Artificial Intelligence — Udacity / Woolf University  
-**Total:** 2250 hours | **Completed:** 375h (17%)
+**Total:** 2250 hours | **Completed:** 500h (22%)
 
 ### Core Modules (875h compulsory)
 
@@ -18,7 +18,7 @@ My background is in IT at an insurance and financial products platform, where AI
 | AI Programming with Python | ✅ Completed | 125h | [ai-programming-python](https://github.com/masterofscienceinai/ai-programming-python) |
 | Ethical AI Practices | ✅ Completed | 125h | [ai-ethics](https://github.com/masterofscienceinai/ai-ethics) |
 | Applied Data Analytics | ✅ Completed | 125h | [applied-data-analytics](https://github.com/masterofscienceinai/applied-data-analytics) |
-| Intro to Machine Learning with PyTorch | 🔄 In progress | 125h | coming soon |
+| Intro to Machine Learning with PyTorch | ✅ Completed | 125h | [intro-to-machine-learning](https://github.com/masterofscienceinai/intro-to-machine-learning) |
 | Introduction to Deep Learning | 🔄 In progress | 125h | coming soon |
 | Generative AI | 🔄 In progress | 125h | coming soon |
 
