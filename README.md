@@ -20,6 +20,7 @@ My background is in IT at an insurance and financial products platform, where AI
 | Applied Data Analytics | ✅ Completed | 125h | [applied-data-analytics](https://github.com/masterofscienceinai/applied-data-analytics) |
 | Intro to Machine Learning with PyTorch | ✅ Completed | 125h | [intro-to-machine-learning](https://github.com/masterofscienceinai/intro-to-machine-learning) |
 | Introduction to Deep Learning | ✅ Completed | 125h | [intro-to-deep-learning](https://github.com/masterofscienceinai/intro-to-deep-learning) |
+| Agentic AI | 🔄 In progress | 125h | coming soon |
 | Generative AI | 🔄 In progress | 125h | coming soon |
 
 ### Electives (625h)
@@ -32,7 +33,7 @@ Final project integrating all core nanodegrees.
 
 ## 🛠️ Skills being built
 
-`Python` `PyTorch` `Machine Learning` `Deep Learning` `NLP` `Transformers` `Data Analytics` `Statistics` `Ethical AI` `Generative AI`
+`Python` `PyTorch` `Machine Learning` `Deep Learning` `NLP` `Transformers` `Data Analytics` `Statistics` `Ethical AI` `Agentic AI` `Generative AI`
 
 ---
 
